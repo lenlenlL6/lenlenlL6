@@ -1,18 +1,12 @@
 ### About me 🙋
 
-```php
-<?php
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+Python)](.)
 
-$array = [
-"Name" => "Duy",
-"Age" => 13,
-"Sex" => "Male",
-"Country" => "VietNam",
-"Language" => "PHP"
-];
-foreach($array as $sub => $in){
-echo $sub . ": " . $in . "\n";
-}
+```python
+aboutMe = {"name": "Duy", "Age": 14}
+
+for key in aboutMe:
+ print(key + ": " + str(aboutMe[key]))
 ```
 ### Languages 🖥️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenlenlL6&show_icons=true&theme=dark)
