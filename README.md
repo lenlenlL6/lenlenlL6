@@ -1,12 +1,12 @@
 ### About me 🙋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+Python)](.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+Lua)](.)
 
-```python
-aboutMe = {"name": "Duy", "Age": 14}
-
-for key in aboutMe:
- print(key + ": " + str(aboutMe[key]))
+```lua
+local info = {name = "Duy", age = 14}
+for k, v in pairs(info) đó
+  print(k .. ": " .. v)
+end
 ```
 ### Languages 🖥️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenlenlL6&show_icons=true&theme=dark)
