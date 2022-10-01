@@ -4,7 +4,7 @@
 
 ```lua
 local info = {name = "Duy", age = 14}
-for k, v in pairs(info) đó
+for k, v in pairs(info) do
   print(k .. ": " .. v)
 end
 ```
