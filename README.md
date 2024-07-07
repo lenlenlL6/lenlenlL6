@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+Lua)](.)
 
 ```lua
-local info = {name = "Duy", age = 14}
+local info = {name = "Duy", age = 16}
 for k, v in pairs(info) do
   print(k .. ": " .. v)
 end
