@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenlenlL6&show_icons=true&locale=en&layout=compact" alt="lenlenlL6" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenlenlL6&show_icons=false&locale=en&layout=compact" alt="lenlenlL6" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenlenlL6&show_icons=false&locale=en" alt="lenlenlL6" /></p>
 
