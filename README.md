@@ -2,7 +2,7 @@
 
 ### Just someone learning game development.
 
-- 🌱 I'm currently learning **Lua and C#**
+- 🌱 I'm currently learning **Lua and C++**
 
 - 📫 How to reach me **duyvipka2008@gmail.com**
 
@@ -14,4 +14,7 @@
 <a href="https://discord.gg/TtzYPkdh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TtzYPkdh" height="30" width="40" /></a>
 </p>
 
-![lenlenlL6's Stats](https://github-readme-stats.vercel.app/api?username=lenlenlL6&theme=dark&show_icons=true&hide_border=true&count_private=false)
+<br>
+<br>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lenlenlL6?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
